@@ -168,7 +168,7 @@ body {
   background-image: url("https://cdn.jsdelivr.net/gh/Naim120/Slider@main/squirrel_pixel.png");
 }
 .slider .box1 button {
-  background-image: url("https://cdn.jsdelivr.net/gh/Naim120/Slider@main/squirrel_pixel.png");
+  background-color: #FF0077;
 }
 .slider .box2 {
   background-color: #000050;
