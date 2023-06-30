@@ -162,13 +162,12 @@ body {
   background-image: url('https://cdn.jsdelivr.net/gh/Naim120/Slider@main/squirrel_pixel.png');
 }
 .slider .box1 .illustration .inner {
-  background-color: #FF0077;
+  background-image: url("https://cdn.jsdelivr.net/gh/Naim120/Slider@main/squirrel_pixel.png");
 }
 .slider .box1 .illustration .inner::after, .slider .box1 .illustration .inner::before {
-  background-color: rgba(255, 0, 119, 0.4);
-}
+  background-image: url("https://cdn.jsdelivr.net/gh/Naim120/Slider@main/squirrel_pixel.png");
 .slider .box1 button {
-  background-color: #FF0077;
+  background-image: url("https://cdn.jsdelivr.net/gh/Naim120/Slider@main/squirrel_pixel.png");
 }
 .slider .box2 {
   background-color: #000050;
