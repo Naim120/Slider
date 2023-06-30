@@ -159,7 +159,7 @@ body {
   border: none;
 }
 .slider .box1 {
-  background-image: url('https://cdn.jsdelivr.net/gh/Naim120/Slider@main/squirrel_pixel.png');
+  background-color: #500033;
 }
 .slider .box1 .illustration .inner {
   background-image: url("https://cdn.jsdelivr.net/gh/Naim120/Slider@main/squirrel_pixel.png");
