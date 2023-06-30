@@ -210,7 +210,7 @@ body {
   background-color: #300050;
 }
 .slider .box5 .illustration .inner {
-  background-color: #8000FF;
+  background-image: url("https://cdn.jsdelivr.net/gh/Naim120/Slider@main/squirrel_pixel.png");
 }
 .slider .box5 .illustration .inner::after, .slider .box5 .illustration .inner::before {
   background-color: rgba(128, 0, 255, 0.4);
@@ -236,7 +236,7 @@ body {
   height: 25rem;
   width: 18rem;
   border-radius: 3rem;
-  background-color: #FF0077;
+  background-image: url("https://cdn.jsdelivr.net/gh/Naim120/Slider@main/squirrel_pixel.png");
   position: relative;
   transform: skewX(-10deg);
 }
