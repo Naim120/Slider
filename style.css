@@ -165,7 +165,7 @@ body {
   background-color: #FF0077;
 }
 .slider .box1 .illustration .inner::after, .slider .box1 .illustration .inner::before {
-  background-image: url("https://cdn.jsdelivr.net/gh/Naim120/Slider@main/squirrel_pixel.png");
+  background-color: rgba(255, 0, 119, 0.4);
 }
 .slider .box1 button {
   background-color: #FF0077;
@@ -210,7 +210,7 @@ body {
   background-color: #300050;
 }
 .slider .box5 .illustration .inner {
-  background-image: url("https://cdn.jsdelivr.net/gh/Naim120/Slider@main/squirrel_pixel.png");
+  background-color: #8000FF;
 }
 .slider .box5 .illustration .inner::after, .slider .box5 .illustration .inner::before {
   background-color: rgba(128, 0, 255, 0.4);
@@ -236,7 +236,7 @@ body {
   height: 25rem;
   width: 18rem;
   border-radius: 3rem;
-  background-image: url("https://cdn.jsdelivr.net/gh/Naim120/Slider@main/squirrel_pixel.png");
+  background-color: #FF0077;
   position: relative;
   transform: skewX(-10deg);
 }
@@ -334,4 +334,4 @@ body {
 
 .active {
   opacity: 1 !important;
-}
+  }
